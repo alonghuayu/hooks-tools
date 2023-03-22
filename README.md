@@ -1,18 +1,33 @@
-# Vue 3 + TypeScript + Vite
+# Frontend Development Methods
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project aims to provide useful methods and tips for frontend development. Whether you are a beginner or experienced developer, you can find something useful here.
 
-## Recommended IDE Setup
+## Table of Contents
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Type Support For `.vue` Imports in TS
+## Getting Started
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+To get started with this project, simply clone the repository and browse through the various methods and tips provided. Each method is categorized by its functionality, making it easy to find what you need.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+### Prerequisites
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+To use the methods provided in this project, you should have a basic understanding of HTML, CSS, and Javascript.
+
+### Installing
+
+To install this project, simply clone the repository:
+
+```
+git clone https://github.com/alonghuayu/hooks-tools.git
+```
+
+## Contributing
+
+Contributions to this project are welcome. If you have a useful method or tip to share, simply fork the repository, create a new branch, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
